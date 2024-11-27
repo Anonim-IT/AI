@@ -158,5 +158,13 @@
   {
     "input": "расскажи анегдот",
     "output": "```console\n\u0001 (Модель: Modul-AnonimAI)\n```"
+  },
+  {
+    "input": "/./",
+    "output": "```console\n\u0001 (Модель: Modul-AnonimAI)\n```"
+  },
+  {
+    "input": "да вот сижу хочу переехать на другую ос",
+    "output": "```console\n\u0001 (Модель: Modul-AnonimAI)\n```"
   }
 ]
